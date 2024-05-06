@@ -2,6 +2,9 @@
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+**3.2. Add some creativities to the webclient**
+![alt text](image-2.png)
+example of implement dark theme on the chat
 
 # YewChat 💬
 
